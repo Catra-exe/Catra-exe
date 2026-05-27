@@ -20,4 +20,25 @@
 🐾 Aprendendo: Java | Python | HTML
 🐾 Status: Evoluindo todos os dias 🚀
 🐾 Monster | Código | Caos
-🐾 Missão: Ser melhor que ontem 
+🐾 Missão: Ser melhor que ontem
+```
+## 📊 Estatísticas 🐾
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Catra-exe&show_icons=true&theme=radical">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catra-exe&layout=compact&theme=radical">
+
+<img src="https://streak-stats.demolab.com/?user=Catra-exe&theme=radical">
+
+</div>
+
+---
+
+## ⚡ Status do Sistema
+
+```bash
+🐾 MONSTER ██████████
+🐾 FOCO    ███████
+🐾 CAOS    █████████
